@@ -1,0 +1,15 @@
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/csharp.deps.json
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/csharp.runtimeconfig.json
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/csharp.runtimeconfig.dev.json
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/csharp.dll
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/ref/csharp.dll
+/Users/Romain/Code/tutos/csharp/bin/Debug/net5.0/csharp.pdb
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.csprojAssemblyReference.cache
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.AssemblyInfoInputs.cache
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.AssemblyInfo.cs
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.csproj.CoreCompileInputs.cache
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.dll
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/ref/csharp.dll
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.pdb
+/Users/Romain/Code/tutos/csharp/obj/Debug/net5.0/csharp.genruntimeconfig.cache
