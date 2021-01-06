@@ -1,10 +1,17 @@
 ﻿using System;
+using System.IO;
 
 namespace csharp
 {
     class Program
     {
         public static void Main()
+        {
+            // Exo1();
+            Exo2();
+        }
+
+        static void Exo1()
         {
             var randomNumber = new Random().Next(1, 10);
 
@@ -37,6 +44,21 @@ namespace csharp
                 }
                 nb++;
             } while (input != randomNumber);
+        }
+
+        static void Exo2()
+        {
+            string[] lines = File.ReadAllLines("exo2.txt");
+
+
+            int total = 0;
+
+            for (int i = 0; i < lines.Length; i++)
+            {
+                total += int.Parse(lines[i]);
+            }
+
+            Console.WriteLine("Exo 2: {0}", total);
         }
     }
 }
